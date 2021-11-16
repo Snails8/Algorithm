@@ -30,6 +30,8 @@ foreach ($list as $value) {
 }
 echo '</pre>';
 
+
+
 // 再帰処理で計算
 function mergeSort(&$list, $first, $last)
 {
